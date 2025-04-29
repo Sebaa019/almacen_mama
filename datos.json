@@ -1,0 +1,935 @@
+{
+  "data": [
+    {
+      "nombre": "Hamburguesa",
+      "marca": "Burgy",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Hamburguesa",
+      "marca": "Schneck",
+      "precio_unidad": "$85",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Alitas (500g)",
+      "marca": "-",
+      "precio_unidad": "$50",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Levadura fresca",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$24"
+    },
+    {
+      "nombre": "Levadura instantánea",
+      "marca": "-",
+      "precio_unidad": "$23",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lata de sardinas",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lata de atún",
+      "marca": "-",
+      "precio_unidad": "$45",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Curita",
+      "marca": "-",
+      "precio_unidad": "$4",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Oregano",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$100"
+    },
+    {
+      "nombre": "Aji, ajo y perejil",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$100"
+    },
+    {
+      "nombre": "Adobo",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$100"
+    },
+    {
+      "nombre": "Vinagre de alcohol (500g)",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lata de choclo",
+      "marca": "-",
+      "precio_unidad": "$42",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lata de arveja",
+      "marca": "-",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lata de ensalada primavera",
+      "marca": "-",
+      "precio_unidad": "$42",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Caja de fósforo",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Encendedor",
+      "marca": "-",
+      "precio_unidad": "$15",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Levadura instantánea",
+      "marca": "-",
+      "precio_unidad": "$23",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Royal",
+      "marca": "-",
+      "precio_unidad": "$23",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Afeitadora (amarilla)",
+      "marca": "BIC",
+      "precio_unidad": "$28",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Afeitadora (azul)",
+      "marca": "Gilette",
+      "precio_unidad": "$50",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Hojilla",
+      "marca": "-",
+      "precio_unidad": "$1",
+      "precio_cantidad": "40",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cigarro",
+      "marca": "51",
+      "precio_unidad": "$4",
+      "precio_cantidad": "65",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cigarro",
+      "marca": "Nevada",
+      "precio_unidad": "$17",
+      "precio_cantidad": "115",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cigarro",
+      "marca": "GIF",
+      "precio_unidad": "$5",
+      "precio_cantidad": "85",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cigarro",
+      "marca": "Coronado",
+      "precio_unidad": "$17",
+      "precio_cantidad": "115",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Tabaco",
+      "marca": "Cerrito",
+      "precio_unidad": "$150",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Whisky",
+      "marca": "Mac Pay",
+      "precio_unidad": "$110",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Mayonesa 124g",
+      "marca": "Uruguay",
+      "precio_unidad": "$32",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Mayonesa 498g",
+      "marca": "Uruguay",
+      "precio_unidad": "$105",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Ketchup 60g",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Mostaza 50g",
+      "marca": "-",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Solución para parche",
+      "marca": "-",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Parches",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cartas",
+      "marca": "-",
+      "precio_unidad": "$60",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lampara de luz",
+      "marca": "-",
+      "precio_unidad": "$30",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Avena",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$16"
+    },
+    {
+      "nombre": "Azúcar",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$7"
+    },
+    {
+      "nombre": "Lentejas",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$20"
+    },
+    {
+      "nombre": "Cocoa",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$25"
+    },
+    {
+      "nombre": "Pan rayado",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$8"
+    },
+    {
+      "nombre": "Maicena",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$15"
+    },
+    {
+      "nombre": "Leche en polvo",
+      "marca": "-",
+      "precio_unidad": "-",
+      "precio_cantidad": "-",
+      "precio_suelto": "$35"
+    },
+    {
+      "nombre": "Comida de gato",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "$10"
+    },
+    {
+      "nombre": "Pegamento",
+      "marca": "Éccole",
+      "precio_unidad": "$190",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Café instantáneo",
+      "marca": "Saint",
+      "precio_unidad": "$5",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Caramelos",
+      "marca": "-",
+      "precio_unidad": "$1",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Galletitas Waffle",
+      "marca": "-",
+      "precio_unidad": "$22",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Galletitas Redondas",
+      "marca": "-",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cocoita",
+      "marca": "Saintcolet",
+      "precio_unidad": "$5",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Té",
+      "marca": "Saint",
+      "precio_unidad": "$5",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Té",
+      "marca": "Hornimans",
+      "precio_unidad": "$6",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Chupa-Chupa",
+      "marca": "-",
+      "precio_unidad": "$5",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Adherente",
+      "marca": "-",
+      "precio_unidad": "$55",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Nuez moscada",
+      "marca": "-",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Canela",
+      "marca": "-",
+      "precio_unidad": "$18",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cinta adhesiva",
+      "marca": "-",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Paracetamol",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Desodorante de ambiente",
+      "marca": "Jupiter",
+      "precio_unidad": "$79",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Mata moscas y mosquitos",
+      "marca": "Tax",
+      "precio_unidad": "$100",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Mata cucarachas",
+      "marca": "Jupiter",
+      "precio_unidad": "$160",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Salsa de tomate",
+      "marca": "Rigby",
+      "precio_unidad": "$75",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Salsa blanca",
+      "marca": "Puritas",
+      "precio_unidad": "$30",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Pañales",
+      "marca": "-",
+      "precio_unidad": "$18",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Protector diario",
+      "marca": "Mili",
+      "precio_unidad": "$55",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Chupetin",
+      "marca": "Voaloco",
+      "precio_unidad": "$16",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Shampoo",
+      "marca": "Dove",
+      "precio_unidad": "$12",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Acondicionador",
+      "marca": "Dove",
+      "precio_unidad": "$12",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Acondicionador",
+      "marca": "Sedal",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Shampoo",
+      "marca": "Pantene",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Acondicionador",
+      "marca": "Pantene",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jugo instantáneo",
+      "marca": "Jazz",
+      "precio_unidad": "$15",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jugo instantáneo",
+      "marca": "Rinde 2",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jugo instantáneo",
+      "marca": "Puritas",
+      "precio_unidad": "$12",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Sal",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "$9"
+    },
+    {
+      "nombre": "Aceite",
+      "marca": "Condesa",
+      "precio_unidad": "$70",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Harina 0000",
+      "marca": "Uruguay",
+      "precio_unidad": "$45",
+      "precio_cantidad": "-",
+      "precio_suelto": "$5"
+    },
+    {
+      "nombre": "Harina 0",
+      "marca": "San Agustin",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "$5"
+    },
+    {
+      "nombre": "Aspiral",
+      "marca": "-",
+      "precio_unidad": "$15",
+      "precio_cantidad": "70",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Azúcar",
+      "marca": "Azucarlito",
+      "precio_unidad": "$55",
+      "precio_cantidad": "-",
+      "precio_suelto": "$5"
+    },
+    {
+      "nombre": "Azúcar",
+      "marca": "Puritas",
+      "precio_unidad": "$48",
+      "precio_cantidad": "-",
+      "precio_suelto": "$5"
+    },
+    {
+      "nombre": "Grasa",
+      "marca": "-",
+      "precio_unidad": "$46",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Salsa (bolsita)",
+      "marca": "Rigby",
+      "precio_unidad": "$45",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Lámen",
+      "marca": "-",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Caldo",
+      "marca": "-",
+      "precio_unidad": "$12",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "huevos",
+      "marca": "-",
+      "precio_unidad": "$15",
+      "precio_cantidad": "$330",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Velas blancas",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Polenta",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Fideos (100g)",
+      "marca": "-",
+      "precio_unidad": "$8",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Fideos paquete 400g",
+      "marca": "-",
+      "precio_unidad": "$30",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Pure de papas",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Arroz 500g",
+      "marca": "Saman",
+      "precio_unidad": "$35",
+      "precio_cantidad": "-",
+      "precio_suelto": "$7"
+    },
+    {
+      "nombre": "Arroz 1kg",
+      "marca": "Saman",
+      "precio_unidad": "$65",
+      "precio_cantidad": "-",
+      "precio_suelto": "$7"
+    },
+    {
+      "nombre": "Palillos",
+      "marca": "-",
+      "precio_unidad": "$55",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Velas de colores",
+      "marca": "-",
+      "precio_unidad": "$15",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Trapos de piso",
+      "marca": "-",
+      "precio_unidad": "$60",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Trapo tipo rejilla",
+      "marca": "-",
+      "precio_unidad": "$40",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón en barra",
+      "marca": "Girando Sol",
+      "precio_unidad": "$35",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón en barra",
+      "marca": "Bull Dog",
+      "precio_unidad": "$65",
+      "precio_cantidad": "$90",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Quesitos",
+      "marca": "Pimba",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Quesitos",
+      "marca": "Buby",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Tico tico",
+      "marca": "-",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Quesito",
+      "marca": "Bilu Top",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Palichips",
+      "marca": "-",
+      "precio_unidad": "$7",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Sahumerio",
+      "marca": "-",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Alfajor Top",
+      "marca": "Punta Ballena",
+      "precio_unidad": "$35",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Alfajor Impacto",
+      "marca": "Punta Ballena",
+      "precio_unidad": "$17",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "alfajor",
+      "marca": "Portezuelo",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Pasta de dientes 50g",
+      "marca": "Colgate",
+      "precio_unidad": "$50",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Cerveza",
+      "marca": "Schin",
+      "precio_unidad": "$50",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Caramelos de miel",
+      "marca": "-",
+      "precio_unidad": "$2",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Dientitos",
+      "marca": "-",
+      "precio_unidad": "$3",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Bananitas",
+      "marca": "-",
+      "precio_unidad": "$3",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Salsa de tomate",
+      "marca": "Val",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Pepas",
+      "marca": "-",
+      "precio_unidad": "$30",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Conos con chocolate",
+      "marca": "Minicco",
+      "precio_unidad": "$20",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Croc-Chock",
+      "marca": "-",
+      "precio_unidad": "$12",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Gomitas (tubito)",
+      "marca": "Gomutcho",
+      "precio_unidad": "$10",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Gelatinas",
+      "marca": "-",
+      "precio_unidad": "$5",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Yerba 100g",
+      "marca": "Canarias",
+      "precio_unidad": "$26",
+      "precio_cantidad": "-",
+      "precio_suelto": "$23"
+    },
+    {
+      "nombre": "Yerba 250g",
+      "marca": "Canarias",
+      "precio_unidad": "$57",
+      "precio_cantidad": "-",
+      "precio_suelto": "$23"
+    },
+    {
+      "nombre": "Yerba 500g",
+      "marca": "Canarias",
+      "precio_unidad": "$105",
+      "precio_cantidad": "-",
+      "precio_suelto": "$23"
+    },
+    {
+      "nombre": "Yerba 70g",
+      "marca": "Cebador",
+      "precio_unidad": "$17",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Yerba 500g",
+      "marca": "Cebador",
+      "precio_unidad": "$85",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Yerba 500g",
+      "marca": "Baldo",
+      "precio_unidad": "$105",
+      "precio_cantidad": "-",
+      "precio_suelto": "$23"
+    },
+    {
+      "nombre": "Galletitas saladas",
+      "marca": "-",
+      "precio_unidad": "$20",
+      "precio_cantidad": "$50",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón de tocador",
+      "marca": "Aroma",
+      "precio_unidad": "$30",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón de tocador",
+      "marca": "Dove",
+      "precio_unidad": "$60",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón de tocador",
+      "marca": "Lux",
+      "precio_unidad": "$35",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón de tocador",
+      "marca": "Sensus",
+      "precio_unidad": "$25",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón en polvo 400g",
+      "marca": "Granby",
+      "precio_unidad": "$35",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Jabón en polvo 100g",
+      "marca": "Plumita",
+      "precio_unidad": "$18",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    },
+    {
+      "nombre": "Galletitas saladas (malteadas)",
+      "marca": "Luna",
+      "precio_unidad": "$70",
+      "precio_cantidad": "-",
+      "precio_suelto": "-"
+    }
+  ]
+}
