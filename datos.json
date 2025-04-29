@@ -260,13 +260,6 @@
       "precio_suelto": "$16"
     },
     {
-      "nombre": "Azúcar",
-      "marca": "-",
-      "precio_unidad": "-",
-      "precio_cantidad": "-",
-      "precio_suelto": "$7"
-    },
-    {
       "nombre": "Lentejas",
       "marca": "-",
       "precio_unidad": "-",
@@ -558,14 +551,14 @@
       "marca": "Azucarlito",
       "precio_unidad": "$55",
       "precio_cantidad": "-",
-      "precio_suelto": "$5"
+      "precio_suelto": "$7"
     },
     {
       "nombre": "Azúcar",
       "marca": "Puritas",
       "precio_unidad": "$48",
       "precio_cantidad": "-",
-      "precio_suelto": "$5"
+      "precio_suelto": "$7"
     },
     {
       "nombre": "Grasa",
